@@ -4,4 +4,4 @@ Create a managed Cloud Dataproc cluster with Apache Spark
 
 Build and run jobs that use external packages that aren't already installed on your cluster
 
-Shut down your cluster
+Shut down the cluster
