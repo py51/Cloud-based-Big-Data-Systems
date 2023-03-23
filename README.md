@@ -27,6 +27,10 @@ Create a Cloud Storage bucket and collect images
 
 Create a Cloud Dataproc cluster
 
+## Step 5:
+
+Submit your job to Cloud Dataproc
+
 ## Reference:
 [Distributed Image Processing in Cloud Dataproc](https://www.cloudskillsboost.google/focuses/5834?catalog_rank={"rank"%3A7%2C"num_filters"%3A0%2C"has_search"%3Atrue}&parent=catalog&search_id=4914974)
 
